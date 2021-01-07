@@ -1,0 +1,23 @@
+.change{
+    color: brown;
+}
+.half-width{
+    float: left;
+}
+.half-width img{
+    width:100%;
+
+}
+section{
+    hight:500px;
+    border: 2px solid slateblue;
+}
+.name{
+    font direction: none;
+    padding:10px 10px;
+    margin:10px 20px;
+    border-redius:1px solid blue;
+    
+
+    
+}
